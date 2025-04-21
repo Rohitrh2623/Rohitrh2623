@@ -14,7 +14,7 @@ I'm an aspiring Full Stack Java Developer with hands-on experience in building d
 🛠️ Skills & Technologies  
 
 🚧 Backend Development  
-- Java (Core & OOP)  
+- Java (Core & Advanced)  
 - Spring Boot, Spring MVC, JDBC, Hibernate  
 - RESTful API Development  
 - MySQL  
