@@ -1,10 +1,10 @@
-                                                    Hi there 👋 I am Rohit Honnappanavar
+                                               Hi there 👋 I am Rohit Honnappanavar
 
 🚀 **About Me**  
 I'm an aspiring Full Stack Java Developer with hands-on experience in building dynamic web applications using Java, Spring Boot, and modern frontend technologies. With a passion for problem-solving and clean code, I enjoy transforming ideas into scalable, real-world solutions.
 
 🔭 Currently Learning : Spring Boot, RESTful APIs, cloud platforms, React,
-💡 Interested In : Full Stack Development, Exploring New Technologies,  
+                                                                                                                                                                             💡 Interested In : Full Stack Development, Exploring New Technologies,  
 💬 Ask Me About : Java, Spring Boot, Web Technologies, APIs, Agile Practices  
 📫 How to Reach Me : rohitrh2623@gmail.com  
 📞 Phone : +91-9743573301  
